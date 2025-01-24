@@ -1,2 +1,2 @@
 # library manager
-Simple library manager using Spark framework for my advanced programming course
+Simple library manager REST API using Spark framework
